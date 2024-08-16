@@ -1,10 +1,9 @@
-AWS VPC Transit Gateway README
-==================================
-Overview
-----------
+#AWS VPC Transit Gateway README
+
+##Overview
 
 AWS VPC Transit Gateway is a network service that enables the connection of multiple VPCs and on-premises networks through a single, centralized gateway. It simplifies network management and enhances scalability.
-Key Points
+##Key Points
 
     Centralized Connectivity: Connect multiple VPCs and on-premises networks.
     Simplified Management: Manage network traffic and routing from a single point.
@@ -15,4 +14,4 @@ Resources
 ------------
 
     AWS VPC Transit Gateway Documentation
-    
+
