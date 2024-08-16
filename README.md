@@ -12,6 +12,7 @@ AWS VPC Transit Gateway is a network service that enables the connection of mult
 
 ## Resources
 
+- [AWS VPC Transit Gateway PDF](https://example.com/path/to/AWS_VPC_Transit_Gateway_Medium.pdf)
 - [AWS VPC Transit Gateway Documentation](https://docs.aws.amazon.com/vpc/latest/tgw/what-is-transit-gateway.html)
 
 
